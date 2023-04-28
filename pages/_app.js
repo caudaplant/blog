@@ -1,5 +1,5 @@
-import '@/styles/globals.scss';
-import Layout from '@/components/layout';
+import '@/styles/globals.scss'
+import Layout from '@/components/layout'
 
 // Font Awesomeの設定
 import '@fortawesome/fontawesome-svg-core/styles.css'
